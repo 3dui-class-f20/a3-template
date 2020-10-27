@@ -42,7 +42,7 @@ A second simple approach is to create a black plane and position it so it covers
 
 Either approach is fine for this assignment.
 
-You should make the initial people of full black very short (perhaps 1/25th of a second or so).  As with all animations, you should base this time period on time, not on a number of rendering frames, to ensure it behaves similarly on displays with different frame rates.
+You should make the initial period of full black very short (perhaps 1/25th of a second or so).  As with all animations, you should base this time period on time, not on a number of rendering frames, to ensure it behaves similarly on displays with different frame rates.
 
 ### Shift Teleport
 
